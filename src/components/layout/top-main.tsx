@@ -27,7 +27,7 @@ function TopMain() {
             <div className="inline-flex flex-col items-center sm:items-start gap-8 font-[Roboto]">
               <p className="font-light text-6xl leading-[55px]">Collections</p>
               <p className="text-2xl leading-[55px] capitalize max-w-[570px] text-center sm:text-left">
-                you can explore ans shop many differnt collection from various
+                you can explore and shop many different collection from various
                 barands here.
               </p>
               <Button
