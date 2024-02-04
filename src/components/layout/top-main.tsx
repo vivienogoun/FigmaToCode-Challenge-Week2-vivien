@@ -21,7 +21,7 @@ function TopMain() {
           alt=""
           className="absolute right-0 bottom-36 hidden sm:block"
         />
-        <div className={`${maxWidthMarginAuto} flex flex-col gap-20`}>
+        <div className={`${maxWidthMarginAuto} flex flex-col gap-20 px-2`}>
           <Header />
           <div className="flex flex-col-reverse sm:flex-row gap-16 sm:gap-32 items-center">
             <div className="inline-flex flex-col items-center sm:items-start gap-8 font-[Roboto]">
