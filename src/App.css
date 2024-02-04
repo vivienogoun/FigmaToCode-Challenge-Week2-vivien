@@ -1,0 +1,13 @@
+#root {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 3em;
+}
+
+@media (min-width: 640px) {
+  #root {
+    gap: 6em;
+  }
+}
